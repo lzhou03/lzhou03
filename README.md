@@ -1,4 +1,4 @@
-### Hi there 👋
+### About Me 👋
 
 
 - 📚 I'm a student at Purdue double majoring in Computer Science and Data science
