@@ -34,8 +34,8 @@ public class Laura {
 ### Github Stats
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yesistolethecookies&show_icons=true&locale=en&layout=compact&theme=rose_pine" alt="yesistolethecookies" /></p>
-
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yesistolethecookies&show_icons=true&locale=en&theme=rose_pine" alt="yesistolethecookies" /></p> -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YesIStoleTheCookies&theme=monokai-metallian)](https://git.io/streak-stats)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yesistolethecookies&show_icons=true&locale=en&layout=compact&theme=dracula" alt="yesistolethecookies" /></p>
