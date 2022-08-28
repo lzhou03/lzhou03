@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=1000&color=A097FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile+%3A\);Enjoy+your+stay!)](https://git.io/typing-svg)
+<p align="center" width="100%">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=1000&color=A097FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile+%3A\);Enjoy+your+stay!)](https://git.io/typing-svg)
+
+</p>
 
 ### About Me 👋
 ```java
