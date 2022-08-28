@@ -7,7 +7,7 @@
 ### About Me 👋
 ```java
 public class Laura {
-  Laura() {
+  public Laura() {
     this.name = "Laura Zhou";
     this.education = "Sophomore in CS @ Purdue";
     this.isStudying = "Comp Architecture, Data Structs, and Algos";
