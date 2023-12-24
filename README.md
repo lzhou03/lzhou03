@@ -2,17 +2,8 @@
 <h1 align ="center">Laura Zhou's Profile</h1>
 
 ## About Me 👋
-```java
-public class Laura {
-  public Laura() {
-    this.name = "Laura Zhou";
-    this.education = "Sophomore in CS @ Purdue";
-    this.isStudying = "Comp Architecture, Data Structs, and Algos";
-    this.favoriteLang = "Java and JavaScript :)";
-  }
-}
-```
-- 📚 I'm a student at Purdue University double majoring in Computer Science and Data science, and pursuing a minor in Mathematics! (Grad. May 2024
+
+- 📚 I'm a student at Purdue University majoring in Computer Science and pursuing a BS and MS! (Grad. May 2025)
 - 💡 I’m currently working on taking courses, practicing and learning skills, and creating cool projects!
 - 😊 Some things I enjoy (besides working on cool projects): art, anime, music, and gaming
 - 📫 How to reach me: lczhou@purdue.edu
