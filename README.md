@@ -3,7 +3,7 @@
 
 ## About Me 👋
 
-- 📚 I'm a student at Purdue University pursuing a BS + MS (Grad. May 2025) in CS with a focus on software engineering and machine learning! I've interned as a software engineer at Blizzard Entertainment, and worked on a multitude of smaller projects as well.
+- 📚 I'm a student at Purdue University pursuing a BS + MS (Grad. May 2025) in CS with a focus on software engineering and machine learning! I've interned as a software engineer at Blizzard Entertainment and Riot Games, and worked on a multitude of smaller projects as well.
 - 💡 I’m currently working on coursework, practicing and learning skills, and creating cool projects!
 - 😊 Some things I enjoy (besides working on cool projects): art, anime, music, and gaming
 - 📫 How to reach me: lczhou@purdue.edu
