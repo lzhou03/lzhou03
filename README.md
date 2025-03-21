@@ -1,5 +1,5 @@
 
-<h1 align ="center">Laura Zhou's Profile</h1>
+<h1 align ="center">Laura Zhou's Profile ✨</h1>
 
 ## About Me 👋
 
@@ -7,6 +7,7 @@
 - 💡 I’m currently working on coursework, practicing and learning skills, and creating cool projects!
 - 😊 Some things I enjoy (besides working on cool projects): art, anime, music, and gaming
 - 📫 How to reach me: lczhou@purdue.edu
+- 🕸️ Visit my [website](https://lczhou.vercel.app/)!
 
 ---
 
